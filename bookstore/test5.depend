@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527763157 source:c:\users\veena\desktop\mini project\test5\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<iostream>
+	<stdlib.h>
+
